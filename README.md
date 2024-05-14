@@ -18,6 +18,7 @@ List of projects being developed on Magma to Explore and test.
 
 #### GameFi
 * [TetraSpektra](https://magma.tetraspektra.lol/)
+* [Spin to Win Game](https://magmafuckingfortune.com/)
 
 #### AutoFi
 * [Bot Stays On](https://bot-stays-on.vercel.app/)
