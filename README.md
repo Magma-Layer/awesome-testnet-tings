@@ -1,6 +1,7 @@
 # Testnet Tings
+List of projects being developed on Magma to Explore and test. 
 
-#### List of projects being developed on Magma to Explore and test. 
+---
 
 ### Facuet 
 * [Lava Facuet](https://www.lavafaucet.xyz/)
@@ -38,7 +39,9 @@
 
 * [Docs](https://docs.magma.foundation/)
 
-### Pre-compiles (Advanced)
+---
+
+## Pre-compiles (Advanced)
 
 #### Swap
 * [V3Factory](https://magmascan.org/address/0x8ddfB8944b498CBeE4D91aa86F850b4642C126F6)
