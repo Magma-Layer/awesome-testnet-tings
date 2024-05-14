@@ -28,14 +28,17 @@ List of projects being developed on Magma to Explore and test.
 * [Lending (alpha)](https://magma-liquidity-aave.vercel.app/)
 * [Forge](https://forge-magmafoundation.vercel.app/)
 * [The Pump OTC](https://pump-otc.vercel.app/)
+* [RandomFUDkerTestMint](https://jayratheru.github.io/RandomFUDkerTestMint/mint.html)
+
 
 #### Community NFT (never share seed phrase)
 * [Magma Phunks](https://magmaphunks.eth.link/)
 * [Magma Frens](https://pondscan.github.io/Mint-A-Fren/)
 * [Magma Mfers](https://magmamfers.art/)
 
-#### Merch & Retail 
+#### Misc
 * [Marathon Merch](https://marathonbill.store/)
+* [Magmify Crowdfunding](https://magmify.xyz/)
 
 ---
 
