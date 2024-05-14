@@ -29,9 +29,10 @@ List of projects being developed on Magma to Explore and test.
 * [Forge](https://forge-magmafoundation.vercel.app/)
 * [The Pump OTC](https://pump-otc.vercel.app/)
 
-#### NFT
+#### Community NFT (never share seed phrase)
 * [Magma Phunks](https://magmaphunks.eth.link/)
 * [Magma Frens](https://pondscan.github.io/Mint-A-Fren/)
+* [Magma Mfers](https://magmamfers.art/)
 
 #### Merch & Retail 
 * [Marathon Merch](https://marathonbill.store/)
