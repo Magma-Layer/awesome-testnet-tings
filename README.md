@@ -21,6 +21,7 @@
 * [Swap Analytics](https://magma-info.vercel.app/#/)
 * [Lending (alpha)](https://magma-liquidity-aave.vercel.app/)
 * [Forge](https://forge-magmafoundation.vercel.app/)
+* [The Pump OTC](https://pump-otc.vercel.app/)
 
 ### NFT
 * [Magma Phunks](https://magmaphunks.eth.link/)
