@@ -13,6 +13,9 @@
 ### GameFi
 * [TetraSpektra](https://magma.tetraspektra.lol/)
 
+### AutoFi
+* [Bot Stays On](https://bot-stays-on.vercel.app/)
+
 ### DeFi
 * [Swap](https://magma-ui-swap.vercel.app/)
 * [Swap Analytics](https://magma-info.vercel.app/#/)
