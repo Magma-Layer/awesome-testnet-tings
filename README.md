@@ -6,9 +6,9 @@ List of projects being developed on Magma to Explore and test.
 
 ---
 
-#### Facuet
+#### Faucet
 
-- [Lava Facuet](https://www.lavafaucet.xyz/)
+- [Lava Faucet](https://www.lavafaucet.xyz/)
 - [Magma Sender](https://www.magmasender.com/)
 
 #### Bridge
@@ -38,6 +38,7 @@ List of projects being developed on Magma to Explore and test.
 - [The Pump OTC](https://pump-otc.vercel.app/)
 - [RandomFUDkerTestMint](https://jayratheru.github.io/RandomFUDkerTestMint/mint.html)
 - [Omnisat](https://www.omnisat.io/)
+- [Magmify Crowdfunding](https://magmify.xyz)
 
 #### Community NFT (never share seed phrase)
 
