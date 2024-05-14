@@ -31,6 +31,7 @@ List of projects being developed on Magma to Explore and test.
 
 #### NFT
 * [Magma Phunks](https://magmaphunks.eth.link/)
+* [Magma Frens](https://pondscan.github.io/Mint-A-Fren/)
 
 
 ---
