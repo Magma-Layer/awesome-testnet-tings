@@ -1,6 +1,8 @@
 # Testnet Tings
 List of projects being developed on Magma to Explore and test. 
 
+[Docs](https://docs.magma.foundation/)
+
 ---
 
 ### Facuet 
@@ -27,8 +29,14 @@ List of projects being developed on Magma to Explore and test.
 ### NFT
 * [Magma Phunks](https://magmaphunks.eth.link/)
 
+
+---
+
+## Advanced
+
 ### Tooling
 * [BedrockDB](https://bedrockdb.vercel.app/)
+* [Tectonix Manager](https://tectonix-explorer.vercel.app/)
 
 ### Misc
 * [Tx Subgraph](https://subgraph.testnet.magma.foundation/subgraphs/name/MagmaSwap/graphql?query=%0A%7B%0A++factories%28first%3A+5%29+%7B%0A++++id%0A++++poolCount%0A++++txCount%0A++++totalVolumeUSD%0A++%7D%0A++bundles%28first%3A+5%29+%7B%0A++++id%0A++++ethPriceUSD%0A++%7D%0A++%0A++tokens%7B%0A++++id%0A++++name%0A++%7D%0A++%0A++_meta%7B%0A++++block%7B%0A++++++number%0A++++%7D%0A++%7D%0A%7D%0A)
@@ -37,9 +45,6 @@ List of projects being developed on Magma to Explore and test.
 
 * [Cross Chain Subgraph](https://bridge-api.magma.foundation/graphql)
 
-* [Docs](https://docs.magma.foundation/)
-
----
 
 ## Pre-compiles (Advanced)
 
