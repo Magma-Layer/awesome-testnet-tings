@@ -9,6 +9,9 @@ List of projects being developed on Magma to Explore and test.
 * [Lava Facuet](https://www.lavafaucet.xyz/)
 * [Magma Sender](https://www.magmasender.com/)
 
+#### Bridge
+* [Native Bridge](https://bridge-testnet-magma.vercel.app/)
+
 #### Block Explorers
 * [Blockscout](https://magmascan.org/)
 * [Ethernal](https://testnet.magma.foundation/overview)
