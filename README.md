@@ -24,6 +24,7 @@ List of projects being developed on Magma to Explore and test.
 
 - [TetraSpektra](https://magma.tetraspektra.lol/)
 - [Spin to Win Game](https://magmafuckingfortune.com/)
+- [Dank My Meme](https://www.dankmymeme.xyz/)
 
 #### AutoFi
 
