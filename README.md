@@ -31,7 +31,7 @@ List of projects being developed on Magma to Explore and test.
 - [Bot Stays On](https://bot-stays-on.vercel.app/)
 
 #### DeFi
-
+- [Token Launcher](https://pondscan.github.io/TokenFactory)
 - [Swap](https://magma-ui-swap.vercel.app/)
 - [Swap Analytics](https://magma-info.vercel.app/#/)
 - [Lending (alpha)](https://magma-liquidity-aave.vercel.app/)
