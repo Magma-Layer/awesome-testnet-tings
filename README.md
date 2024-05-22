@@ -26,6 +26,13 @@ List of projects being developed on Magma to Explore and test.
 - [Spin to Win Game](https://magmafuckingfortune.com/)
 - [Dank My Meme](https://www.dankmymeme.xyz/)
 
+#### Community NFT (never share seed phrase)
+
+- [Magma Phunks](https://magmaphunks.eth.link/)
+- [Magma Frens](https://pondscan.github.io/Mint-A-Fren/)
+- [Magma Mfers](https://magmamfers.art/)
+- [Scandalous Birds](https://scandalousbirds.com/)
+
 #### AutoFi
 
 - [Bot Stays On](https://bot-stays-on.vercel.app/)
@@ -40,12 +47,6 @@ List of projects being developed on Magma to Explore and test.
 - [RandomFUDkerTestMint](https://jayratheru.github.io/RandomFUDkerTestMint/mint.html)
 - [Omnisat](https://www.omnisat.io/)
 - [Magmify Crowdfunding](https://magmify.xyz)
-
-#### Community NFT (never share seed phrase)
-
-- [Magma Phunks](https://magmaphunks.eth.link/)
-- [Magma Frens](https://pondscan.github.io/Mint-A-Fren/)
-- [Magma Mfers](https://magmamfers.art/)
 
 #### Misc
 
