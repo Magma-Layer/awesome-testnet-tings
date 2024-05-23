@@ -26,6 +26,10 @@ List of projects being developed on Magma to Explore and test.
 - [Spin to Win Game](https://magmafuckingfortune.com/)
 - [Dank My Meme](https://www.dankmymeme.xyz/)
 
+#### Marketplaces
+
+- [Volcano NFT Market](https://rubykitties.net/volcano/index.html)
+
 #### Community NFT (never share seed phrase)
 
 - [Magma Phunks](https://magmaphunks.eth.link/)
