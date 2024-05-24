@@ -33,6 +33,7 @@ List of projects being developed on Magma to Explore and test.
 #### Marketplaces
 
 - [Volcano NFT Market](https://rubykitties.net/volcano/index.html)
+- [8Bit WOKEYS NFT Marketplace] (https://8bitwokeys.com/)
 
 #### Community NFT (never share seed phrase)
 
@@ -40,6 +41,7 @@ List of projects being developed on Magma to Explore and test.
 - [Magma Frens](https://pondscan.github.io/Mint-A-Fren/)
 - [Magma Mfers](https://magmamfers.art/)
 - [Scandalous Birds](https://scandalousbirds.com/)
+- [8Bit WOKEYS] (https://8bitwokeys.com/)
 
 #### AutoFi
 
