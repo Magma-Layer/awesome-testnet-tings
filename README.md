@@ -58,6 +58,9 @@ List of projects being developed on Magma to Explore and test.
 - [Omnisat](https://www.omnisat.io/)
 - [Magmify Crowdfunding](https://magmify.xyz)
 
+#### Governance 
+- [Verifi](https://verifi.network)
+
 #### Misc
 
 - [Marathon Merch](https://marathonbill.store/)
