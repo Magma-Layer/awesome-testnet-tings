@@ -6,6 +6,10 @@ List of projects being developed on Magma to Explore and test.
 
 ---
 
+#### General
+
+- [Points](https://points-web-git-main-magmafoundation.vercel.app)
+
 #### Faucet
 
 - [Lava Faucet](https://www.lavafaucet.xyz/)
