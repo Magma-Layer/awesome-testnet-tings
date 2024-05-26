@@ -1,3 +1,4 @@
+<div align="center">	
 <svg width="292px" height="212px" viewBox="0 0 292 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Shape</title>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -5,10 +6,8 @@
     </g>
 </svg>
 
-# Awesome Testnet Tings
-
 			    <b>✨ All things MAGMA Testnet, in one place ✨</b>	
-
+</div>
 
 List of projects being developed on Magma to Explore and test.
 
