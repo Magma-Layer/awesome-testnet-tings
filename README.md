@@ -3,9 +3,8 @@
     <p>	
 	    <a href="https://www.magma.foundation/">	
             <div>	
-			<img src="https://github.com/Magma-Layer/testnet-tings/assets/76861306/f0887e38-8233-47eb-9b2b-4d4b59bad675" width="180"  alt="Magma" />	
-
-		    </div>	
+		<img src="https://github.com/Magma-Layer/testnet-tings/assets/76861306/f0887e38-8233-47eb-9b2b-4d4b59bad675" width="180"  alt="Magma">	
+	    </div>	
             <br>
 			    <b>✨ All things Magma Testnet related, in one place ✨</b>	
 	        </br>
