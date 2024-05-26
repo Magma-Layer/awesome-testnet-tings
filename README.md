@@ -1,12 +1,10 @@
 
-<div alig![magmasvg](https://github.com/Magma-Layer/testnet-tings/assets/76861306/7100f189-0d76-4667-9a5a-8c3e6c77612c)
-n="center">	
+<div align="center">	
     <p>	
 	    <a href="https://www.magma.foundation/">	
             <div>	
-			<img src="https://github.com/Magma-Layer/testnet-tings/assets/76861306/f0887e38-8233-47eb-9b2b-4d4b59bad675" width="180"  alt="Magma">	
+			<img src="https://github.com/Magma-Layer/testnet-tings/assets/76861306/f0887e38-8233-47eb-9b2b-4d4b59bad675" width="180"  alt="Magma" />	
 
-	          
 		    </div>	
             <br>
 			    <b>✨ All things Magma Testnet related, in one place ✨</b>	
