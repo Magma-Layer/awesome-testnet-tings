@@ -27,6 +27,7 @@
 
 #### Faucet
 
+- [Ethernal Faucet](https://testnet.magma.foundation/faucet)
 - [Lava Faucet](https://www.lavafaucet.xyz/)
 - [Magma Sender](https://www.magmasender.com/)
 
