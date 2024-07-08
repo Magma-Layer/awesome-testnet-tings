@@ -101,13 +101,15 @@
 
 ### Pre-compiles (Advanced)
 
+
 #### Swap
 
-- [V3Factory](https://magmascan.org/address/0x8ddfB8944b498CBeE4D91aa86F850b4642C126F6)
-- [Multicall](https://magmascan.org/address/0x5e74D928CC499D3d2544B0286e392539739D4c60)
-- [NonfungiblePositionManager](https://magmascan.org/address/0x1D5f352e15D0eCD04811b8aD69c100651a4BdB4C)
-- [V3Migrator](https://magmascan.org/address/0x423D34F72121bD5AB7A82C150d2269a2950F7803)
-- [QuoterV2](https://magmascan.org/address/0xd302fA2D75F1DD90022de324976723de8CC466b5)
+- [V3Factory](https://magmascan.org/address/0x2FDD14c77eDce94D11a18fe579Da550d82A15148)
+- [Multicall](https://magmascan.org/address/0x49a57760aa426B47f9f40a9763eE5d1E20fC6Aa0)
+- [NonfungiblePositionManager](https://magmascan.org/address/0x3Ef2927a884d2f4ecDEe6b32073740720031a650)
+- [V3Migrator](https://magmascan.org/address/0xbF5B3b84561A8F0657cB98DEE622C7FCa5c356C6)
+- [QuoterV2](https://magmascan.org/address/0xf5A2F9Ea3cEf1a460A56b63Ef76E947Fb530bc33)
+- [Router](https://magmascan.org/address/0x467DA5DF0012BAD24757E45ff4A245CF611c2e3C)
 
 #### Cross Chain
 
